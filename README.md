@@ -3,6 +3,8 @@
 # Instalation
  apt-get install python git
 
+ apt install figlet
+
  cd BanyuwangiSec
 
  python bwisec.py
