@@ -84,8 +84,6 @@ elif Pilih =="8":
   print
   print("MOTHERLESS: www.motherless.com")
   print
-  print("COPY PASTE AJA GW MALES")
-  print
   print("YOURPORN: www.youporn.com")
   print
   print("PORNONE: www.pornone.com")
@@ -97,3 +95,5 @@ elif Pilih =="8":
   print("GOTPORN: www.gotporn.com")
   print
   print("PORNTUBE: www.porntube.com")
+  print
+  print("COPY PASTE AJA GW MALES")
