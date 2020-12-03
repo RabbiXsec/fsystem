@@ -66,7 +66,7 @@ elif Pilih =="8":
 elif Pilih =="9":
   os.system("clear")
   os.system("apt-get install python3")
-  os.system("python3 cam/cam-hackers.py")
+  os.system("python3 csm/cam-hackers.py")
 elif Pilih =="10":
   os.system("clear")
   os.system("figlet BERDOSAAA")
