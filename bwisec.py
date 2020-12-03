@@ -5,7 +5,7 @@ import time
 os.system("clear")
 os.system("figlet BwiSec")
 print
-print("Author: Rabbit.X")
+print("Author: UDIN | REDSEC")
 print
 print("[1] DDoS")
 print("[2] Brute Force")
@@ -14,7 +14,9 @@ print("[4] Create Malware")
 print("[5] Database Dump")
 print("[6] RED HAWK")
 print("[7] Crack Passwords")
-print("[8] NONTON BOKEP")
+print("[8] ONEX")
+print("[9] HACK CCTV")
+print("[10] NONTON BOKEP")
 Pilih = raw_input('Pilih = ')
 if Pilih =="1":
   os.system("apt-get install python")
@@ -54,6 +56,18 @@ elif Pilih =="7":
   os.system("clear")
   os.system("hashcat -h")
 elif Pilih =="8":
+  os.system("clear")
+  os.system("apt update")
+  os.system("apt install git")
+  os.system("git clone https://github.com/rajkumardusad/onex.git")
+  os.system("chmod +x onex/install")
+  os.system("sh onex/install")
+  os.system("onex -h")
+elif Pilih =="9":
+  os.system("clear")
+  os.system("apt-get install python3")
+  os.system("python3 cam/cam-hackers.py")
+elif Pilih =="10":
   os.system("clear")
   os.system("figlet BERDOSAAA")
   print("INSYAFLAH WAHAI MANUSIA")
@@ -95,5 +109,9 @@ elif Pilih =="8":
   print("GOTPORN: www.gotporn.com")
   print
   print("PORNTUBE: www.porntube.com")
+  print
+  print("PORNGO: www.porngo.com")
+  print
+  print("TUBE8: www.tube8.com")
   print
   print("COPY PASTE AJA GW MALES")
