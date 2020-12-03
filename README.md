@@ -5,6 +5,8 @@
 
  apt install figlet
 
+ git clone https://github.com/RabbiXsec/BanyuwangiSec
+
  cd BanyuwangiSec
 
  python bwisec.py
