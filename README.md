@@ -1,6 +1,8 @@
 # BanyuwangiSec
  This project is still in Beta!
-# Instalation
+# Instalation Linux
+ apt update
+
  apt-get install python git
 
  apt install figlet
@@ -10,3 +12,18 @@
  cd BanyuwangiSec
 
  python bwisec.py
+
+# Instalation Termux
+ pkg update && pkg upgrade
+ 
+ pkg install python2 git
+ 
+ pkg install pip
+ 
+ pip install figlet
+ 
+ git clone https://github.com/RabbiXsec/BanyuwangiSec
+ 
+ cd BanyuwangiSec
+ 
+ python2 bwisec.py
