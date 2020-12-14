@@ -20,7 +20,7 @@
  
  pkg install pip
  
- pip install figlet
+ pkg install figlet
  
  git clone https://github.com/RabbiXsec/BanyuwangiSec
  
