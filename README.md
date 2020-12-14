@@ -18,8 +18,6 @@
  
  pkg install python2 git
  
- pkg install pip
- 
  pkg install figlet
  
  git clone https://github.com/RabbiXsec/BanyuwangiSec
